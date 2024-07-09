@@ -23,7 +23,7 @@ Your client, a leading meal delivery company operating across multiple cities, s
 - **Informed Decision-Making:** Visualizations and analytics provide actionable insights for strategic planning.
 
 **Get Started:**
-1. **Clone the Repository:** `git clone https://github.com/yourusername/MealDemandForecast.git`
+1. **Clone the Repository:** `git clone https://github.com/Raju-vuggina/MealDemandForecast.git`
 2. **Explore the Data:** Examine the provided historical demand and feature datasets.
 3. **Run the Forecasting Models:** Utilize the included models to generate demand forecasts for the specified period.
 4. **Visualize and Analyze:** Leverage built-in visualization tools to interpret the forecast results and make informed operational decisions.
